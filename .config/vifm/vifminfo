@@ -1,0 +1,346 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/david/
+	..
+1575381049
+'b
+	/home/david/bin/
+	..
+1575381049
+'d
+	/home/david/Documents
+	others
+1575386809
+'h
+	/home/david/
+	..
+1575381049
+'j
+	/home/david
+	..
+1575381926
+'m
+	/home/david/Projects/serado
+	code
+1575381840
+'p
+	/home/david/Projects
+	serado
+1575386829
+'s
+	/home/david/Projects/serado
+	no_code
+1575382049
+'z
+	/home/david/.config/vifm
+	..
+1575381049
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/david
+	Projects
+6
+d/home/david/Projects
+	..
+0
+d/home/david
+	Media
+5
+d/home/david/Documents
+	docker
+5
+d/home/david/Projects/serado
+	no_code
+2
+d/home/david/Projects
+	serado
+11
+d/home/david/Projects/serado
+	no_code
+2
+d/home/david/Projects
+	serado
+11
+d/home/david
+	test_vifm
+19
+d/home/david/test_vifm
+	..
+0
+d/home/david
+	test_vifm
+19
+d/home/david/test_vifm
+	..
+0
+d/home/david
+	test_vifm
+19
+d/home/david/test_vifm
+	..
+0
+d/home/david
+	test_vifm
+19
+d/home/david/test_vifm
+	..
+0
+d/home/david
+	test_vifm
+19
+d/home
+	david
+1
+d/home/david
+	Projects
+6
+d/home/david/Projects
+	serado
+11
+d/home/david/Projects/serado
+	no_code
+2
+d/home/david
+	..
+0
+d/home/david/Projects/serado
+	no_code
+2
+d/home/david/Projects
+	sellingsite
+9
+d/home/david/Projects/serado
+	code
+1
+d/home/david
+	Documents
+3
+d/home/david/Documents
+	others
+6
+d/home/david/Documents/others
+	jobs
+8
+d/home/david/Documents/others/jobs
+	cinematheque_suisse
+2
+d/home/david/Documents/others/jobs/cinematheque_suisse
+	Informations_engagement_CS_rempli.docx
+1
+d/home/david/Documents/others/jobs
+	cinematheque_suisse
+2
+d/home/david
+	Documents
+3
+d/home/david/Documents
+	others
+6
+d/home/david
+	..
+0
+d/home/david/Documents
+	others
+6
+d/home/david
+	Projects
+6
+d/home/david/Projects
+	serado
+11
+d/home/david
+	..
+0
+d/home/david/Projects
+	test-laravel
+14
+d/home/david
+	..
+0
+d/home/david/Projects
+	serado_keystore
+12
+d/home/david/Projects/serado_keystore
+	apple
+1
+d/home/david/Projects
+	serado
+11
+d/home/david/Projects/serado
+	code
+1
+d/home/david/Projects/serado/code
+	angular.json
+8
+d/home/david/Projects/serado
+	code
+1
+d/home/david/Projects
+	serado
+11
+d/home/david/Projects/serado
+	code
+1
+d/home/david
+	..
+0
+d/home/david/Projects/serado
+	no_code
+2
+d/home/david
+	VirtualBox VMs
+38
+d/home
+	david
+1
+d/home/david
+	test_vifm
+38
+d/home/david/test_vifm
+	..
+0
+d/home/david
+	.config
+4
+d/home/david/.config
+	vifm
+38
+d/home/david/.config/vifm
+	vifminfo
+4
+d/home/david/.config
+	vifm
+38
+d/home/david
+	.config
+4
+d/home
+	david
+1
+d/home/david
+	Templates
+4
+d/home/david/Templates
+	Empty Document
+1
+d
+
+# Right window history (oldest to newest):
+D/home/david
+	Documents
+3
+D/home/david/Documents
+	Maman
+3
+D/home/david/Documents/Maman
+	plan_evacuation.ods
+1
+D/home/david/Documents
+	Maman
+3
+D/home/david
+	Documents
+3
+D/home
+	david
+1
+D/
+	bin
+0
+D/home/david
+	tradimag
+21
+D/home/david/tradimag
+	..
+0
+D/home/david
+	test_vifm
+19
+D/home
+	david
+1
+D/home/david
+	test_vifm
+19
+D/home/david/test_vifm
+	..
+0
+D/home/david
+	tmp
+20
+D/home
+	david
+1
+D/home/david
+	node_modules
+14
+D
+
+# Command line history (oldest to newest):
+:set nu
+:set rnu
+:set rnu nu
+:cd Documents/
+:vim
+:ls
+:cd $PR/serado/
+:mkdir
+:mkdir test_vifm
+:vim tst.txt
+:tilix
+:20
+:touch test.txt
+:reg
+:help
+:pwd
+:q
+:mkdir 
+:vifmconf
+
+# Search history (oldest to newest):
+/Projec
+/P
+/.vi
+/.vifm
+/.conf
+/vifm
+
+# Prompt history (oldest to newest):
+ptest.txt
+ptest2.txt
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/david
+""/home/gitlab-runner
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/david/.local/share/vifm/Trash/000_test2.txt
+	/home/david/test_vifm/test2.txt
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
