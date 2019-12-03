@@ -1,0 +1,5 @@
+# takes everything from ~/.vimrc file
+source ~/.vimrc
+
+set surround
+set commentary
