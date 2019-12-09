@@ -73,7 +73,15 @@ export SDKMAN_DIR="/home/david/.sdkman"
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
-# export PATH="/home/david/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/bin:/opt/personnal_commands/:/home/david/.sdkman/candidates/gradle/current/bin:/home/david/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/bin:/opt/personnal_commands/:/usr/libexec/python2-sphinx:/usr/share/Modules/bin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/var/lib/snapd/snap/bin:/home/david/Android/Sdk/tools:/home/david/Android/Sdk/platform-tools:/home/david/.local/bin:/home/david/bin:/home/david/Android/Sdk/tools:/home/david/Android/Sdk/platform-tools:/home/david/.vimpkg/bin"
+vicd()
+{
+    local dst="$(command vifm --choose-dir - "$@")"
+    if [ -z "$dst" ]; then
+        echo 'Directory picking cancelled/failed'
+        return 1
+    fi
+    cd "$dst"
+}
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm

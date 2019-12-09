@@ -41,7 +41,7 @@
 # Bookmarks:
 
 # TUI:
-al
+ar
 q1
 v2
 ov
@@ -50,6 +50,51 @@ l2
 r2
 
 # Left window history (oldest to newest):
+d/home/david/Projects/keys
+	commands_to_build_release.txt
+1
+d/home/david/Projects/serado/code/platforms/android/build/intermediates/lint-cache
+	..
+0
+d/home/david/Projects/serado_keystore/release
+	..
+0
+d/home/david/Projects/serado_keystore/apple
+	apple_developer_info.png
+1
+d/home/david/Projects/gallereddit
+	tslint.json
+22
+d/home/david/.config/vifm/colors
+	..
+0
+d/
+	home
+5
+d/home/david/.vimpkg
+	src
+3
+d/home/david/.vimpkg/src
+	tagbar
+1
+d/home/david/.vimpkg/src/tagbar
+	..
+0
+d/home/david/.vimpkg/src
+	tagbar
+1
+d/home/david/.vimpkg
+	bundle
+2
+d/home/david/.vim
+	autoload
+1
+d/home/david/moto
+	..
+0
+d/home/david/.vim
+	bundle
+2
 d/home/david
 	Projects
 6
@@ -234,7 +279,64 @@ d/home/david
 	Templates
 4
 d/home/david/Templates
-	Empty Document
+	todo.txt
+1
+d/home/david/Projects/serado
+	code
+1
+d/home/david/Projects/serado/code
+	src
+6
+d/home/david/Projects/serado
+	code
+1
+d/home/david/Projects/serado/code
+	platforms
+3
+d/home/david/Projects/serado/code/platforms
+	android
+1
+d/home/david/Projects/serado/code/platforms/android
+	build
+3
+d/home/david/Projects/serado/code/platforms/android/build
+	intermediates
+1
+d/home/david/Projects/serado/code/platforms/android/build/intermediates
+	lint-cache
+1
+d/home/david/Projects/serado/code/platforms/android/build
+	intermediates
+1
+d/home/david/Projects/serado/code/platforms/android
+	app
+2
+d/home/david/Projects/serado/code/platforms/android/app
+	release
+3
+d/home/david/Projects/serado/code/platforms/android/app/release
+	serado-release-signed.apk
+2
+d/home/david/Projects/serado/code/platforms/android/app
+	build
+1
+d/home/david/Projects/serado/code/platforms/android/app/build
+	outputs
+3
+d/home/david/Projects/serado/code/platforms/android/app/build/outputs
+	..
+0
+d/home/david/Projects/serado/code/platforms/android/app/build
+	outputs
+3
+d/home/david/Projects/serado/code/platforms/android/app/build/outputs
+	apk
+1
+d/home/david/Projects/serado/code/platforms/android/app/build/outputs/apk
+	release
+1
+d/home/david/Projects/serado/code/platforms/android/app/build/outputs/apk/release
+	app-release-unsigned.apk
 1
 d
 
@@ -287,9 +389,38 @@ D/home
 D/home/david
 	node_modules
 14
+D/home/david/Projects
+	serado_keystore
+12
+D/home/david/Projects/serado_keystore
+	app-release-unsigned.apk
+3
+D/home/david/Projects
+	serado_keystore
+12
+D/home/david/Projects/serado
+	code
+1
+D/home/david/Projects/serado/code
+	resources
+5
+D/home/david/Projects/serado/code/resources
+	ios
+2
+D/home/david/Projects/serado/code/resources/ios
+	splash
+2
 D
 
 # Command line history (oldest to newest):
+:vicd
+:cq
+:sh go .
+:sh "go ."
+:h
+:ex
+:touch template.html
+:cd .config/
 :set nu
 :set rnu
 :set rnu nu
@@ -309,8 +440,23 @@ D
 :q
 :mkdir 
 :vifmconf
+:touch todo.txt
+:go .
+:open
+:sh echo 9
+:sh
+:exit
 
 # Search history (oldest to newest):
+//kkkjkjk
+/.gitign
+/*rc
+/.*rc
+/vim
+/.vimrc
+/vimrc
+/.vimj/.vim
+/.vim
 /Projec
 /P
 /.vi
@@ -319,20 +465,50 @@ D
 /vifm
 
 # Prompt history (oldest to newest):
+pKNIME_project2_bayes.knwf
+pKNIME_project2_bayes
+p.ideavimrc
 ptest.txt
 ptest2.txt
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/david
-""/home/gitlab-runner
+""/home/david/.local/share/vifm/Trash/000_serado-unsigned.apk
 
 # Directory stack (oldest to newest):
 
 # Trash content:
 t/home/david/.local/share/vifm/Trash/000_test2.txt
 	/home/david/test_vifm/test2.txt
+t/home/david/.local/share/vifm/Trash/000_Empty Document
+	/home/david/Templates/Empty Document
+t/home/david/.local/share/vifm/Trash/000_a.out
+	/home/david/a.out
+t/home/david/.local/share/vifm/Trash/000_architecture.pdf
+	/home/david/architecture.pdf
+t/home/david/.local/share/vifm/Trash/000_install_font.sh
+	/home/david/install_font.sh
+t/home/david/.local/share/vifm/Trash/000_nohup.out
+	/home/david/nohup.out
+t/home/david/.local/share/vifm/Trash/000_report_bcp.txt
+	/home/david/report_bcp.txt
+t/home/david/.local/share/vifm/Trash/000_stale_outputs_checked
+	/home/david/stale_outputs_checked
+t/home/david/.local/share/vifm/Trash/000_yarn.lock
+	/home/david/yarn.lock
+t/home/david/.local/share/vifm/Trash/000_xterm.2019.04.03.14.47.28.xhtml
+	/home/david/xterm.2019.04.03.14.47.28.xhtml
+t/home/david/.local/share/vifm/Trash/000_ebener_js.js
+	/home/david/ebener_js.js
+t/home/david/.local/share/vifm/Trash/000_virtualbox.repo
+	/home/david/virtualbox.repo
+t/home/david/.local/share/vifm/Trash/000_package-lock.json
+	/home/david/package-lock.json
+t/home/david/.local/share/vifm/Trash/000_KNIME_project2_bayes.knwf
+	/home/david/KNIME_project2_bayes.knwf
+t/home/david/.local/share/vifm/Trash/000_serado-unsigned.apk
+	/home/david/Projects/serado_keystore/serado-unsigned.apk
 
 # State:
 f

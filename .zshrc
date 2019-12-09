@@ -81,6 +81,7 @@ source $ZSH/oh-my-zsh.sh
 # export JAVA_HOME="/usr/java/jdk-10.0.2"
 export JAVA_HOME="/usr/java/jdk1.8.0_221-amd64/"
 export ANDROID_HOME=$HOME/Android/Sdk # Android SDK
+export ANDROID_SDK_ROOT=$ANDROID_HOME
 
 
 export PATH="/opt/personnal_commands/:$PATH" # My personal commands

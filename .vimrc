@@ -1,28 +1,18 @@
-" Specify a directory for plugins
-" - For Neovim: ~/.local/share/nvim/plugged
-" - Avoid using standard Vim directory names like 'plugin'
-call plug#begin('~/.vim/plugged')
+" Plugins
+source $HOME/.vimconf/plugins.vimrc
 
-" Make sure you use single quotes
+" Snippets
+source $HOME/.vimconf/snippets.vimrc
 
-Plug 'itchyny/lightline.vim'
-Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
-Plug 'junegunn/fzf.vim'
+" Prettier / Linter
+source $HOME/.vimconf/prettier_linter.vimrc
 
+" Tabulations
+source $HOME/.vimconf/tabulations.vimrc
 
-" Initialize plugin system
-call plug#end()
+" Typescript
+let g:typescript_indent_disable = 1
 
-set laststatus=2
-execute pathogen#infect()
-call pathogen#helptags()
-
-" Mapping
-map <C-n> :NERDTreeToggle<CR>
-
-set tabstop     =4
-set softtabstop =4
-set shiftwidth  =4
-set expandtab
+" Line numbers
 set nu
 set rnu
